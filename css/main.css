@@ -51,20 +51,18 @@ form textarea {
   margin-bottom: 1rem;
   padding: .5rem 1rem;
 }
-
 form textarea {
   min-height: 150px;
   max-height: 150px;
   height: 150px;
   resize: none;
 }
-
 form button {
   background: none;
   border: 2px solid black;
   padding: 1rem;
   text-transform: uppercase;
 }
-.site-footer {
+footer {
   padding: 2rem 0;
 }
